@@ -11,6 +11,6 @@
 <p align="center">
 <a href="https://twitter.com/majidcj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="majidcj" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/majidcj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="majidcj" height="20" width="20" /></a>
-<a href="https://fb.com/majid s cj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="majid s cj" height="20" width="20" /></a>
+<a href="https://fb.com/majid.weezy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="majid s cj" height="20" width="20" /></a>
 <a href="https://instagram.com/majidscj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="majidscj" height="20" width="20" /></a>
 </p>
