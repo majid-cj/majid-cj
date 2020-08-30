@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=majid-cj" alt="majid-cj" /> </p>
 
-- 🌱 I’m currently learning **Golang, React, K8S, MongoDB, and maybe Hugo or Gatsby not sure yet for static web sites**
+- 🌱 I’m currently learning **Golang, React, K8S, MongoDB, and maybe Hugo**
 
 - 💬 Ask me about **Django, Golang, Software Engineering**
 
