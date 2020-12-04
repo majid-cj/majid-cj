@@ -13,6 +13,10 @@
 
 - 💬 Ask me about **Django, Golang, Software Engineering**
 
+- 🌱 I’m currently learning **Golang, React, K8S, MongoDB, and maybe Hugo**
+
+- 💬 Ask me about **Django, Golang, Software Engineering**
+
 - 📫 How to reach me **majidsideahmed@gmail.com**
 
 - ⚡ Fun fact **if you like cats, you're my friend 🐱**
