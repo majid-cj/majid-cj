@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Majid CJ</h1>
 <h3 align="center">Software Developer, specializing in back-end development, and i do some front-end development.</h3>
-<h5 align="center"> Pyhon 🐍 Golang 🐹 </h5>
+<h2 align="center"> Pyhon 🐍 Golang 🐹 </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=majid-cj&label=Profile%20views&color=0e75b6&style=flat" alt="majid-cj" /> </p>
 
