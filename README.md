@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Majid CJ</h1>
-<h3 align="center">Software Developer, specializing in back-end development, and i do front-end development. Experienced with all stages of the software development life cycle for dynamic projects. Well-versed in numerous programming languages including Python, Go Lang, JavaScript.</h3>
+<h3 align="center">Software Developer, specializing in back-end development, and i do front-end development.
+  Well-versed in numerous programming languages including Python, Go Lang, JavaScript.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=majid-cj&label=Profile%20views&color=0e75b6&style=flat" alt="majid-cj" /> </p>
 
