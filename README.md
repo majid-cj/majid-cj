@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **majidsideahmed@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/majid-cj/overlay/1635493537251/single-media-viewer/](https://www.linkedin.com/in/majid-cj/overlay/1635493537251/single-media-viewer/)
+- 📄 Know about my [experiences](https://www.linkedin.com/in/majid-cj/details/featured/1635497276944/single-media-viewer/)
 
 - ⚡ Fun fact **if you like cats, you're my friend 🐱**
 
